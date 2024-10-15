@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva Prasad Bathinagari</h1>
 <h3 align="center">Aspiring Data Analyst / Business Analyst</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaprasad121333&label=Profile%20views&color=0e75b6&style=flat" alt="sivaprasad121333" /> </p>
 
 - 🔭 I’m looking for an opportunity in : **DATA ANALYTICS & SCIENCE**
