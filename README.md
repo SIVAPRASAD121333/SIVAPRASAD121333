@@ -1,6 +1,6 @@
 <h1 align="center">Hello , I'm Siva Prasad Bathinagari</h1>
 <h3 align="center">Data Analyst</h3>
-
+<img src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif" alt="coding" width="400" align="right">
 
 - I’m currently working on : **DATA ANALYTICS**
 
