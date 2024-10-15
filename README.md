@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 <img src="https://cdn.dribbble.com/users/970957/screenshots/5504725/gif.gif" alt="coding" width="400" align="right">
 
-- I’m currently working on : **DATA ANALYTICS**
+- I’m currently working As a : **Junior Research Fellow at Indian Institute of Information Technology, Sri City, Chittoor**
 
 - My Proficiency : **SQL, PYTHON (DATA SC), POWER BI, EXCEL**
 
