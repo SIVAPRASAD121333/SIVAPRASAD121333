@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/SIVAPRASAD121333/Siva-Prasad-Bathinagari/blob/main/Banner%20logo.png)
 <h1 align="center">Hello , I'm Siva Prasad Bathinagari</h1>
 <h3 align="center"> Aspiring Data Analyst</h3>
 <img src="https://github.com/user-attachments/assets/d3038d9a-fdea-42cc-b29d-c99faed3a712" alt="coding" width="400" align="right">
