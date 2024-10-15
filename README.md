@@ -2,7 +2,7 @@
 <h3 align="center"> Aspiring Data Analyst</h3>
 <img src="![image](https://github.com/user-attachments/assets/d3038d9a-fdea-42cc-b29d-c99faed3a712)" alt="coding" width="400" align="right">
 
-- I’m currently working As a : **Junior Research Fellow at Indian Institute of Information Technology, Sri City, Chittoor**
+<p>I’m currently working As a : **Junior Research Fellow at Indian Institute of Information Technology, Sri City, Chittoor**<p>
 
 - My Proficiency : **SQL, PYTHON (DATA SC), POWER BI, EXCEL**
 
