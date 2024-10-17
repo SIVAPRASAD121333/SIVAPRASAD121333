@@ -8,12 +8,12 @@
 - My Proficiency : **SQL, PYTHON (DATA SC), POWER BI, EXCEL**
 
 - I’m looking for an opportunity in : **DATA ANALYTICS & SCIENCE**
-- My Portfolio : [Link](<a href="https://sivaprasad121333.github.io/" target="_blank">My Portfolio</a>)
+- My Portfolio : <a href="https://sivaprasad121333.github.io/" target="_blank">Visit My Portfolio</a>
 - Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS**
 
 - Reach me : **sivaprasad121333@gmail.com**
 
-- My Resume : [Link](https://drive.google.com/file/d/1YkLG8eCp9_aXqpFGiCPBjtJPJGQz3-52/view?usp=drive_link)
+- My Resume : <a href="https://drive.google.com/file/d/1YkLG8eCp9_aXqpFGiCPBjtJPJGQz3-52/view?usp=drive_link" target="_blank">View My Resume</a>
 - Fun fact : **I'M FUNNY  :)**
 
 <h3 align="left">Connect with me:</h3>
