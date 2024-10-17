@@ -9,7 +9,7 @@
 
 - I’m looking for an opportunity in : **DATA ANALYTICS & SCIENCE**
 - My Portfolio : [Link](https://sivaprasad121333.github.io/)
-
+<a href="https://sivaprasad121333.github.io/" target="_blank">My Portfolio</a>
 - Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS**
 
 - Reach me : **sivaprasad121333@gmail.com**
